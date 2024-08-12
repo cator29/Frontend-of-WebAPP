@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import {useNavigate} from "react-router-dom";
 import 'tailwindcss/tailwind.css';
-import axios from 'axios';
 
 import {getCurrentUser} from "../util/currentUser.util.js";
 
